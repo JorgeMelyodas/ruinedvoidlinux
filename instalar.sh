@@ -1,4 +1,9 @@
 #!/bin/bash
+echo "========================================="
+echo "   SUNSHINE AMD OPTIMIZED EDITION       "
+echo "   Mantenedor: Jorge Melyodas           "
+echo "========================================="
+
 echo "[*] Instalando Dependências Necessárias do Void Linux..."
 sudo xbps-install -Sy nodejs pipewire-devel libcap-devel libcurl-devel miniupnpc-devel mesa-vaapi libva-utils libnuma-devel glslang
 
