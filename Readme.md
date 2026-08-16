@@ -72,4 +72,4 @@ Se você encontrar um problema durante a compilação ou utilização do pacote,
 
 versão do Void Linux; arquitetura utilizada; GPU; versão do driver Mesa; versão do kernel; mensagem completa do erro; logs relevantes. 
 
-Ruined Void Linux — Ó Void Linux do Rei Destruido!
+Ruined Void Linux — Ô Void Linux do Rei Destruido!
